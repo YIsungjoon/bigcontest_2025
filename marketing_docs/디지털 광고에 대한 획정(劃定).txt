@@ -1,0 +1,25 @@
+오늘날 모든 것은 디지털이며 디지털 마케팅은 거의 모든 비즈니스 부문에 통합되어, 기업이 고객과 소통하며 가치를 창출하는 방식을 근본적으로 변화시키고 있다. 따라서 지속해서 성장 중인 국내, 글로벌 시장에 맞는 디지털 마케팅 전략을 구현 및 실행할 수 없는 기업은 시장 경쟁력을 상실하게 될 것입니다. 그러므로 우리의 광고주는 크로스 채널 마케팅, 다중 채널 마케팅, 옴니채널 마케팅 또는 프로그래매틱, 데이터드리븐 마케팅 등 다른 어떤 이름이든, 모든 디지털 채널과 모든 디바이스에서 고객 또는 잠재고객과 소통하는 것이다.
+
+디지털 마케팅에 대한 정의를 저자마다 다르게 하는 경우도 많은데 우리는 디지털 마케팅을 인터넷 마케팅 또는 온라인 마케팅이라고 합의 하였다. 그렇지 않고 과거의 ATL, BTL의 광고 게재 위치와 노출 형태 중심으로 디지털 마케팅 개념을 정리한다거나 디바이스 또는 광고 소재 중심으로 디지털 마케팅 개념을 정리하게 되면 앞으로 얘기될 미래의 디지털 마케팅 개념을 설명할 수 없기 때문이다. 간단히 말해서, 앞으로 저자는 디지털 마케팅은 모든 유형의 디지털 또는 전자 매체를 통해 제품이나 서비스(광고)를 마케팅하는 것으로 정하겠다. 디지털(인터넷) 채널을 사용하여 타겟 고객과 기업을 연결하는 모든 행위 그 자체를 디지털 마케팅으로 보면 더 이상의 ATL, BTL의 경계는 없어지고 우리는 디지털 마케팅(광고) 그 자체를 순수하게 바라볼 수 있을 것이다.
+
+## 1. 디지털 마케팅의 5Ds(5Ds of digital marketing)
+
+*   가) Digital Devices – 노트북, 데스크톱, 스마트폰, 태블릿, 스마트 TV, 웨어러블 장치, 게임 장치.
+*   나) Digital Platforms – DSP, SSP, DMP, SPO, 소셜 미디어, 검색 엔진, 웹사이트.
+*   다) Digital Media – 디지털(온라인) 기반의 광고, 소셜 미디어 마케팅, SMS, 이메일 마케팅
+*   라) Digital Data – apps, contact forms, 설문조사 등
+*   마) Digital Technology – 인공지능, 가상현실, 증강현실, AD-Tech
+
+## 2. 디지털 마케팅의 유형(Types of Digital Marketing)
+
+업계에서도 이미 해당 용어 그대로를 사용하고 있어서이다. 또한 각 유형에 대한 자세한 언급은 다른 저자님의 상세 설명을 참고하기를 바란다.
+
+*   Search Engine Optimization or SEO
+*   Pay Per Click ads or PPC or CPC (Cost Per Click)
+*   Social Media Marketing or SMM
+*   Content Marketing
+*   Email Marketing
+*   Social Media Marketing or SMM
+*   Mobile Marketing
+*   Marketing Analytics
+*   Programmatic Marketing(Buying)

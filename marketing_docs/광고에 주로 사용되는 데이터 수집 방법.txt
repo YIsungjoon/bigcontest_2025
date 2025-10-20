@@ -1,0 +1,209 @@
+지금까지 데이터의 유형 및 종류, 수집 방법과 형태별 특징까지 살펴보았고, 데이터의 수집 주체와 제공 방식에 따라 1자, 2, 3자 데이터가
+어떻게 구분되고 광고 기반에서 어떻게 사용될 수 있는지 알아보았다. 솔직히 고백하건대 앞서 언급한 모든 내용을 이해하고 적용하는데 필
+자도 적지 않은 시간이 걸렸으며, 지금도 계속해서 공부하고 있기 때문이다.
+
+그래서 데이터를 기반으로 광고 전략을 도입하고자 하는 마케터나 광고주를 위해 아래 2가지 꼭 필요한 내용을 정리했으니 이 부분은 반드
+시 알아 두면 좋겠다. 바로 웹 데이터 수집의 기본 원리인 쿠키(Cookie)와 Pixel(또는 Tag)이다. 이 2가지 방식은 프로그래매틱 광고와 리타
+게팅 광고, 문맥 타게팅과 행동 타게팅등 다양한 데이터 기반의 광고 전략에 사용되고 있다.
+
+가. 쿠키(Cookie)에 대한 개념과 종류
+
+쿠키(Cookie)는 웹사이트가 사용자 정보를 '저장'하기 위해서, 사용자의 PC나 스마트폰, 태블릿과 같은 디바이스에 저장하는 데이터이다.
+커머스를 예로 든다면, 사이트에 방문한 소비자가 어떤 상품을 장바구니에 담았는지를 알기 위해, 쿠키가 그 흔적을 데이터로 저장합니다.
+이후 그 소비자가 해당 사이트에 다시 방문하거나 다른 웹사이트에서 컨텐츠를 소비할 때 허락된 광고 지면이 있다면 장바구니에 담긴 상품
+을 바로 보여 줄 수 있게 하는 것이다. 쿠키는 이렇게 리타게팅 광고, 커머스의 장바구니 정보는 물론이고, 웹 데이터 분석과 ID와 비밀번호
+정보 기억하기도 기도 한다.
+
+쿠키를 세분화하면 다시 퍼스트파티(First-Party) 쿠키와 서드파티(Third-Party) 쿠키, 두 가지로 구분되는데, 최근 구글이 서드파티 쿠키를
+2024년 하반기 안에 더는 지원하지 않겠다고 선언하며 광고 업계 큰 쟁점이 되었다. 서드파티 쿠키는 외부 업체가 심는 쿠키로 웹 기반 리타
+게팅 광고를 집행할 때 거의 필수적으로 사용되기 때문이다. 또 대다수 데이터 분석 툴이 서드파티 쿠키를 기반으로 하므로, 구글 브라우저
+를 통한 데이터 수집이 안 되는 것에 대해 어떻게 대응해야 하는지 쟁점이 된 것이다.
+
+1) 퍼스트파티(First-Party) 쿠키와 서드파티(Third-Party) 쿠키
+
+| 쿠키 종류           | 특징                                                                                                                                                                                                                                                                                                    |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 퍼스트파티(First-Party) | 웹사이트 속성이 '호스트 도메인'인 경우에 해당하는데, 현재 방문하는 도메인에 설정된 쿠키를 의미한 다. 보통 광고나 웹로그 분석 툴의 경우 서드파티 쿠키를 이용하는 경우가 많지만, 예외적으로 구글 분 석툴과 프로그래매틱 솔루션에서는 퍼스트 파티 쿠키를 사용한다.                                       |
+| 서드파티(Third-Party) | 방문한 도메인외, 외부 광고, 분석, 데이터 공급업체가 심는 쿠키이다. 서드파티 쿠키는 애드테크 회사 들이 사이트를 넘나들면서 사용자 행동을 추적하거나 분석할 수 있게 함으로써 홈페이지를 방문한 고 객을 대상으로 리타게팅과 프로그래매틱 광고를 가능하게 한다.                                          |
+
+쿠키를 기반으로 수집되는 정보들
+a. 사용자가 접속한 페이지의 URL
+b. 사용자가 현재 페이지로 유입시킨 URL
+c. 사용자 브라우저 agent 정보
+d. 사용자 브라우저의 사이즈(width, height)
+e. 사용자가 접속한 페이지의 사이즈(width, height)
+f. 사용자 디바이스의 스크린 사이즈(width, height)
+g. 사용자 IP
+h. 사용자가 페이지에 접속한 시각
+
+i. 사용자가 페이지에서 접속 종료한 시각 등
+
+2) 서드파티(Third-Party) 쿠키 지원 중단
+
+새로운 개인정보보호 샌드박스 이니셔티브를 테스트하는 데 더 많은 시간이 필요하다는 이유를 들어 구글은 3자 쿠키 지원 중단 시점을 1년
+더 연장해 2024년 말로 변경했다. 2022년 7월 구글 블로그에 게재된 해당 게시글 일부.
+
+3) 퍼스트파티 (First-Party) 쿠키 중요성 대두
+
+3자 쿠키 사용이 점차 불가능해지면서 자사(1자) 데이터 중요성은 더할 나위 없이 커졌다. 업종을 불문하고 양질의 데이터를 확보, 처리, 확
+장하는 데 골몰한다. 이를 통해 사이트 방문자의 관심 및 필요를 파악하는 한편 고객(이용자)과 직접적 관계를 구축하는 시도가 활발하다.
+또 자사 사이트 바깥에서 활동하는 이용자 데이터와 적절히 혼합하는 새로운 솔루션 도입도 모색되고 있다.
+
+Expanding testing for the Privacy
+Sandbox for the Web
+
+Jul 27, 2022 3 min read
+
+A Anthony Chavez
+VP, Privacy Sandbox
+
+Share
+
+Improving people's privacy, while giving businesses the tools they need to succeed online, is vital to the future of the open web. That's
+why we started the Privacy Sandbox initiative to collaborate with the ecosystem on developing privacy-preserving alternatives to third-
+party cookies and other forms of cross-site tracking. Over the past several months, we've released trial versions of a number of new
+Privacy Sandbox APIs in Chrome for developers to test.
+
+Throughout this process, we've worked to refine our design proposals based on input from developers, publishers, marketers, and
+regulators via forums like the W3C, and earlier this year, we reached an agreement with the UK's Competition and Markets Authority
+(CMA) on how we develop and release the Privacy Sandbox in Chrome worldwide.
+
+The most consistent feedback we've received is the need for more time to evaluate and test the new Privacy Sandbox technologies
+before deprecating third-party cookies in Chrome. This feedback aligns with our commitment to the CMA to ensure that the Privacy
+Sandbox provides effective, privacy-preserving technologies and the industry has sufficient time to adopt these new solutions. This
+deliberate approach to transitioning from third-party cookies ensures that the web can continue to thrive, without relying on cross-site
+tracking identifiers or covert techniques like fingerprinting.
+
+For these reasons, we are expanding the testing windows for the Privacy Sandbox APIs before we disable third-party cookies in
+Chrome.
+
+4) 쿠키리스 환경을 준비하는 기업들 - 해외
+
+쿠키리스 환경에서 개인별 맞춤 광고·뉴스를 매칭하려면 쿠키를 대신할 만한 양질의 데이터가 필요하다. 자체 데이터 수집은 물론 여러 데
+이터를 혼합해 가치 있는 정보로 확장해야 한다. 영미권 등 해외 언론계는 로그인 월(login wall, 회원가입) 및 페이월(paywall, 유료화) 모델
+이 자리 잡았기에 축적된 독자(오디언스) 데이터가 많은 편인데, 기존 DB를 놓고 첨단기술을 접목해 서비스 고도화를 꾀하는 모습이다. 일례
+로 애드테크 및 프로그래매틱 광고를 전문으로 하는 미국의 DSP 솔루션 회사들은 사용자 이메일 기반 유니파이드아이디(Unified ID, 이하
+UID) 2.0을 내놓았다. 쿠키 대신 이용자 동의하에 암호화된 이메일로 타깃팅하는 솔루션이다. 언론사를 비롯한 다양한 매체, 채널, 광고주들
+의 참여를 독려하며 생태계 확장에 나서고 있다.
+
+5) 쿠키리스 환경을 준비하는 기업들 - 국내
+
+우리나라도 주목해야 할 점은, 쿠키 없는 대체 솔루션을 특정 기업이 주도해 출시한다고 해도 해당 기업이 수익사업으로 판매하거나 운용하
+는 서비스가 아니라는 점이다. UID 2.0의 경우 더트레이드데스크에서 출시했지만 소유권은 미국 인터넷광고협회(IAB)에 있다. 광고주와 퍼
+블리셔(publishers), 오디언스를 새롭게 연결하는 표준을 제시하도록 설계, 오픈소스 형태로 운영되는 것이다. 이점은 우리나라도 광고 업계
+발전을 위해 주목해야 할 부분이다.
+
+iab.
+TECH LAB
+
+TOOLS PORTAL STANDARDS SOFTWARE COMPLIANCE PROGRAMS WORKING GROUPS MEMBERSHIP EVENTS BLOG
+
+THE IMPACT OF THE TRADE DESK CONTRIBUTING
+UID 2.0 FOR INDUSTRY DEVELOPMENT
+
+Home / Uncategorized / The Impact of The Trade Desk Contributing UID 2.0 for Industry Development
+
+Standard / by IAB Tech Lab May 24, 2021 No Comments
+
+UID 2.0 Is Now an Open Source Project Guided by PRAM and IAB Tech Lab Working
+Groups
+
+The Trade Desk recently announced it is taking an important step toward fostering a new, industry-led form of addressability by
+contributing the Unified ID 2.0 (UID 2.0) source code to the Technical Working Group of the Partnership for Responsible
+Addressable Media (PRAM) run by IAB Tech Lab, to support ongoing collaborative development by the industry. UID 2.0 is the
+first industry-driven open source project to undergo a PRAM review process and accompanies the draft technical standards
+recently released by IAB Tech Lab and upcoming PRAM policy standards, all of which will be finalized soon.
+
+Read more from The Trade Desk
+
+CATEGORIES
+AD PRODUCTS
+AD TECH
+AUDIO & VIDEO
+MOBILE
+PROGRAMMATIC
+
+SEARCH BLOG
+Search...
+
+SEARCH
+
+KEY TAKEAWAYS
+
+The industry now has full ownership over the ongoing development of UID 2.0, as interoperable infrastructure to aid
+in proprietary innovation and industry growth. Anyone can propose updates and changes to add functionality to
+support the project.
+IAB Tech Lab's Addressability Working Group and Privacy & Rearc Commit Group will guide the technical
+development of UID 2.0.
+The Trade Desk plans to remain an active contributor to UID 2.0, alongside others, and will continue to work with
+industry peers to drive wide adoption.
+Prebid.org will remain one of multiple UID 2.0 "Operators," which create ID tokens under UID 2.0's design.
+This is a major milestone, and there are more to come, including IAB Tech Lab's finalization of the draft technical
+standards and guidelines for addressability, privacy and accountability, the release of PRAM's policy guidance; and
+industry engagement around the appropriate near-term and long-term UID 2.0 architecture (including the
+
+RECENT POSTS
+SHARC is ready: Write once,
+serve everywhere Ads
+US State Privacy Signals
+Finalized - IAB Tech Lab Urges
+the Industry to Start Building
+Now
+Into 2023 with Advanced TV
+
+나. Pixel & Floodlight Tags에 대한 개념
+
+Shopify의 자료에 의하면 브랜드의 42%가 자사 및 타사 행동 데이터를 사용하여 고객에게 맞춤형 콘텐츠와 광고를 한다는 사실을 발견했다
+고 한다. 다양한 수단을 통해 자사 데이터를 수집하면 브랜드는 고객의 습관과 선호도에 대한 포괄적인 이해를 얻을 수 있어서 프로그래매틱
+광고, 맞춤 광고, 리타게팅 광고를 집행할 수 있는데, 이때 자사(1자) 데이터 수집에 가장 많이 사용하는 방법이 Pixel 설치이다.
+
+1) 픽셀
+
+픽셀((1x1 픽셀 (image 픽셀), Java script 형태의 픽셀, conversion 픽셀 등)은 웹사이트, 이메일 또는 소셜 미디어 플랫폼에 포함된 코드 조
+각으로, 이를 통해 사용자는 사용자 행동, 사이트 전환, 트래픽 및 기타 측정항목을 추적할 수 있다. 픽셀은 소스 코드 내에서 발견되며 일반
+적으로 다음과 같다.
+
+<img 스타일=""위치: 절대;" src=""추적">
+<img style=""표시: 없음";" src=""추적">
+<img src=""추적" width=""0"" height=""0"">
+
+픽셀의 크기와 가시성은 HTML의 스타일 속성을 사용하여 변경할 수 있지만 사용자는 추적 픽셀을 볼 수 없다.
+
+픽셀 설치는 DSP나 DMP와 같은 솔루션에서 손쉽게 발급받을 수 있으며, 발급받은 Tags를 자사 데이터를 수집하고자 하는 광고주의 서버에
+대한 외부 링크와 함께 HTML의 Body와 Body 사이에 설치해야 한다. 이것으로 모든 작업은 끝난 것이다. 보통 설치된 픽셀은 24시간 이내
+고객이 광고주의 웹사이트를 방문하면 브라우저는 HTML 코드를 처리하여 링크를 따라가며 숨겨진 그래픽을 열게 된다. 그러면 서버의 로그
+파일이 이 작업을 식별하고 기록하는 것이다.
+
+고객(사이트 방문자)은 이 프로세스가 배후에서 진행되고 있다는 것을 알지 못하지만, 픽셀에서 얻은 자사 데이터는 브랜드와 기업이 디지
+털 광고 경험을 개선하고 다음과 같이 고객에 대해 더 많이 알 수 있도록 도와준다.
+
+Operating system type (MS, iOS, Mac, Linux, etc)
+The time and date stamp of the website visit or time the email was read
+Type of platform (desktop or mobile)
+Type of client (mail program or browser)
+IP address
+On-site activities
+Screen resolution
+
+픽셀을 활용하는 또 다른 아이디어로는 배너 광고가 있다고 가정해 보자. 이 광고에 추적 픽셀을 설치하면 얼마나 많은 사람이 광고를 보고,
+클릭하고, 전환했는지 확인할 수 있다. 그런 다음 이 정보를 사용하여 다음 캠페인을 수정하고 계획할 수 있는 것이다. 또 픽셀을 설치해서
+유입되는 자사 데이터를 확인해 보니 조회 수는 높지만, 전환율이 낮은 경우라면 우리는 판매를 높이기 위해 광고 게재 위치를 변경해 보거
+나, 타겟팅 또는 메시지 변경을 고려할 수도 있다.
+
+픽셀과 쿠키는 유사하므로 혼동하기 쉽다. 사용자 활동과 행동을 추적하지만, 정보를 전달하고 보관하는 방법이 다르다는 차이점을 꼭 기억
+해야 한다. 쿠키는 사용자의 의도에 따라 언제든지 브라우저에서 삭제될 수 있으며 여러 기기에서 같은 사용자를 따라갈 수 없다. 또 사용자
+는 쿠키를 차단하거나 삭제하도록 브라우저나 디바이스를 통해 선택할 수 있다. 장점은 더 쉬운 로그인 경험을 위해 정보를 저장하고 사용자
+가 단일 결제 경험을 위해 장바구니에 여러 항목을 추가하는 데 도움이 되는 경우가 있다. 반면 추적 픽셀은 사용자의 브라우저에 의존하지
+않고 정보를 서버(픽셀을 발급한 DSP, DMP 서버)로 직접 보낸다. 모든 기기에서 같은 사용자를 팔로우할 수 있으며 사용자는 이를 비활성화
+할 수 없으므로 데스크톱 및 모바일 광고 전반에 걸쳐 마케팅 활동을 연결할 수 있다.
+
+가장 일반적인 두 가지 픽셀 유형은 리타겟팅 픽셀과 변환 픽셀이 있다. 리타겟팅 픽셀은 웹사이트 방문자의 행동에 중점을 두고 있다. 예를
+들어, 빈티지 의류를 온라인으로 쇼핑하고 다른 웹사이트로 이동하여 모든 광고가 빈티지 의류와 관련되어 있음을 발견하면 이것은 리타겟
+팅 픽셀이라고 보면 된다. 다음으로, 특정 광고 캠페인의 판매를 추적하고, 전환 소스를 식별하고, 특정 캠페인의 성공 또는 실패를 측정하는
+전환 픽셀이 있다. 전환 데이터를 수집하려면 구매 완료 페이지 또는 완료 후 받은 이메일에서 "감사합니다"와 같은 주문 확인 페이지의 코
+드 내에 전환 픽셀을 배치해야 한다. 정리하면 픽셀은 웹사이트 방문자가 남긴 작은 디지털 발자국과 같으며, 광고 담당자는 이를 추적하여
+비즈니스에 대한 통찰력을 얻고 기존 고객의 행동을 이해할 수 있으며 새로운 고객을 발굴할 수 있게 도와준다.
+
+쿠키, SDK, ADID 등 정보수집 구조의 이해
+
+---

@@ -1,0 +1,23 @@
+**RTB(Real-time Bidding)**
+실시간 경매로 광고가 이루어지는 것
+
+**CPC(Cost-per-Click)**
+클릭당 과금
+
+**CPT(Cost-per-Time)**
+시간당 과금
+
+**CPM(Cost-per-Mille)**
+노출 횟수 당 과금
+
+**CTR(Click-Through Rate)**
+클릭율
+
+**Conversion Rate**
+구매 전환율
+
+**Research Service**
+광고업종 및 광고주별로 광고가 집행된 내용 즉 광고량 통계를 집계해주는 서비스
+
+**Attribution/Report Analytics**
+광고캠페인이나 소셜미디어, 웹사이트, 모바일앱 등 디지털광고의 성과를 정량적으로 측정하는 데 필요한 솔루션을 제공하는 서비스

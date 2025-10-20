@@ -1,0 +1,283 @@
+학습자의 이해를 돕기 위해 2023년 모비데이즈에서 발간한 <2023 KOREA Advertising MOBI Landscape>를 살펴보도록 하자.
+
+대한민국의 디지털 광고 비즈니스를 이해하기 가장 쉬운 장표이다. 물론 매우 복잡하게 보이지만 차근차근 설명할 예정이니 천천히 정독해주시기 바란다.
+
+먼저 자료는 위에서 아래로 세로축으로 설명을 하겠다. 제일 위에 위치한 <광고주>부터 제일 아래에 위치한 <고객>까지 어떤 비즈니스와 회사가 어떠한 역할을 하는지 알 수 있다. 또한 각각 어떤 역할을 담당하고 주요 플레이어로는 어떤 회사가 있는지까지 소개할 수 있도록 하겠다.
+
+---
+
+## 2023 Korea Advertising MOBIscape ver 6.0
+
+**Last Update**: March 2023
+**by**: mobidays
+
+### Advertiser
+
+### Full Service Ad Agency
+*   Cheil INNOCEAN
+*   DAEHONG
+*   TBWA
+*   LBEST
+*   ORICOM
+*   W
+*   COMPANY
+*   MCN
+*   Hancowww
+*   Ogilvy
+*   DDBo
+*   dentsu
+*   BBDO group
+*   FSM
+*   AKUHODO
+*   AdQUARE
+*   CTORS
+
+### Digital Agency
+*   mobidays
+*   IAD
+*   Mnet
+*   HANA
+*   adefficiency
+*   FERTILERAINS
+*   ACICOOL
+*   DRIM
+*   MINSIGHT
+*   ECHO MARKETING
+*   KOIS
+*   foresys
+*   Make
+*   ConnectWave
+*   XR
+*   dtsi
+*   HIADONE
+*   CHAI
+*   Noble
+*   PLAY.D
+*   MFORCE
+*   mother brain
+*   OnMperformance
+*   PENTACLE
+*   VEJISOLUTION
+*   AQUA
+*   cream
+*   GRAN MONSTER
+*   아이보스
+*   CaFe24
+*   namu
+*   Ru
+*   Deinsmedia
+*   SIUM
+*   MADUP
+
+### MBP (Meta Business Partner)
+*   mobidays
+*   DMC
+*   incross
+*   nasmedia
+*   MezzoMedia
+*   PLAYD
+*   M2MEDIA
+*   ConnectWave
+*   wisebirds
+*   de
+*   CROSSVEDIA
+*   Mnet
+*   ECHO MARKETING
+*   CAFE24
+*   AMPMgabel
+*   MADUP
+*   COMMERCE
+*   Adriel
+*   igaworks
+*   www
+*   iviabs
+*   Appier
+*   AAWELIN
+*   FORWARDPMX
+*   yellow
+*   HEAD
+*   AD GROUND
+*   madgick
+*   bango
+*   SMC
+*   bigin
+*   AMBITION
+*   Sociallyin
+*   SOJERN
+*   ASSEMBLY
+*   SMC
+*   NETPEAK
+*   OPINNO
+*   SV
+
+### Media Rep.
+*   mobidays
+*   nasmedia
+*   MezzoMedia
+*   DMC
+*   MON
+*   M2digital
+*   CROSSMEDIA
+*   digital First
+*   DARTmedia
+*   DBASE&
+
+### Influencer Marketing
+*   nanigans
+*   afreecaTV
+*   TREASURE HUNTER
+*   DIA
+*   CORRIE
+*   Leferi
+*   zamong
+*   SANDBOX
+*   LOUD
+*   MMEDIANCE
+*   FLUENCER
+*   TAGbY
+*   NARKETIT
+
+### DMP
+*   MOBIDMP
+*   TG360
+*   ORACLE
+*   LOTAME
+*   Data Man
+
+### SSP
+*   MONE
+*   #ADOP
+*   Teads
+*   smaato
+*   ADLIB
+*   PubMatic
+*   ΤΡΜΑ
+*   RealClick
+*   Security Compass
+*   ADPIE
+*   Publative
+*   admixer
+*   MANPLUS
+
+### DSP
+*   thetrade Desk
+*   MediaMath
+*   TWMs
+*   Yeahmooi
+*   Dable
+*   Modpacker
+*   MANPLUS
+*   RealClick
+*   BLADE
+*   Mirading
+*   CRITEO
+*   HACE
+*   GROLOCO
+*   motiv
+*   appier
+*   Мовол
+*   яTBHOUSE
+*   Remerge
+
+### ADX (Ad Exchange)
+*   OpenX
+*   RUBICON
+*   Aol.
+*   NINACE
+*   EXELBID
+
+### Ad Network
+*   network
+*   Inmoai
+*   GIOLOCO
+*   glispa
+*   YOU
+*   CT
+*   SMR
+*   Taboola
+*   Toads
+*   interworks
+*   PINCRUX
+*   buzzvil
+*   oppang
+*   Tapjoy
+*   cheermoo
+*   Personaly
+*   oppnext
+*   APPLOVIN
+*   unity/os
+*   dawin
+*   SIGNALPLAY
+*   NBT
+*   tnk factory
+*   ETCAULY
+*   Affolioswitch
+*   Adfit
+*   dawin
+*   Dable
+*   Topto
+*   EDN Plus
+*   MANPLUS
+*   SWAD
+*   Coppnext
+*   yeahcol
+*   motus
+*   Nativex
+*   ADAMAX
+*   LEADBOAT
+*   tnk story
+*   Taggey
+*   ADPICK
+*   APPRE
+*   Tenping.
+*   Unk
+*   mt
+*   AppLift
+
+### Analytics
+*   TDI
+*   dataai
+*   WISE APP
+*   MOBILEINDEX
+*   Sensor Tower
+*   MOBITRACK
+*   Popsiyer
+*   KOCHAVA
+*   ACE Counter
+*   ADJUST
+*   singular
+*   similarweb
+*   nielsen
+*   comscore
+*   Marketer
+*   adbrix
+*   Airtridge
+*   Firebase
+*   FLURAY
+*   branch
+*   IAS
+*   MOAT
+
+### Publishers/Media
+
+#### Search Ads
+*   N (Naver)
+*   kakao
+*   G (Google)
+*   n (Naver)
+*   Zum
+
+#### Social Network
+*   N (Naver)
+*   W
+*   (Instagram logo - text not extracted)
+*   (Facebook logo - text not extracted)
+*   (TikTok logo - text not extracted)
+*   tI (TikTok)
+*   N (Naver Blog/Cafe)
+*   B (Band)
+
+### User / Consumer
+
+---
+*(페이지 3은 빈 페이지로 텍스트가 없습니다.)*

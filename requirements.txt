@@ -22,3 +22,8 @@ langchain-community==0.2.10
 langgraph==0.1.6
 langchain-openai==0.1.9
 langchain-experimental==0.0.62
+
+# rag 관련 패키지
+# faiss-cpu
+# pypdf2
+# unstructured

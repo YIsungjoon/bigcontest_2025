@@ -1,0 +1,82 @@
+최근 EU는 가장 활발하게 디지털 광고 규제에 대한 법안을 입안하고, 시행하고 있는 지역 중 하나이다. 2023년 8월 25일 디지털서비스법이 2022년 7월 의회의 승인을 거쳐 거대 규모 빅테크 기업에 대해 선행적으로 시행된 바 있으며, 인플루언서 관련 규제 또한 활발하게 진행되고 있다. EASA 또한 2023년 5월 인플루언서 마케팅 가이드라인을 개정한 바 있다.
+
+가. EU의 디지털 광고 일반 규제법령 동향
+
+EU 회원국 중 하나인 프랑스는 인플루언서의 광고를 직접적으로 규제하는 법률¹)을 통과시켜 시행한 바 있다. 해당 법률안은 소셜 네트워크에서 인플루언서의 남용을 방지하는 것을 목표로 인플루언서에 담배광고, 의료 관련 광고를 금지하고 있다. 국내 법률 또한 「추천·보증 등에 관한 표시·광고 심사지침」을 통해 인플루언서 광고 시 금전적 대가임을 명시하고 광고를 진행할 것을 규정하고 있으나, 광고를 진행할 수 없는 금지 품목을 정하지는 않고 있다.
+
+<프랑스 인플루언서 광고 규제 법률안 일부 발췌>
+
+| 내용 |
+|---|
+| I. Est interdite aux personnes exerçant l'activité d'influence commerciale par voie électronique toute promotion, directe ou indirecte, des actes, des procédés, des techniques et des méthodes à visée esthétique mentionnés à l'article L. 1151-2 du code de la santé publique et des interventions mentionnées à l'article L. 6322-1 du même code. |
+| II. Est interdite aux personnes exerçant l'activité d'influence commerciale par voie électronique toute promotion, directe ou indirecte, de produits, d'actes, de procédés, de techniques et de méthodes présentés comme comparables, préférables ou substituables à des actes, des protocoles ou des prescriptions thérapeutiques. |
+| III. Est interdite aux personnes exerçant l'activité d'influence commerciale par voie électronique toute promotion, directe ou indirecte, des produits considérés comme produits de nicotine pouvant être consommés et composés, même partiellement, de nicotine. |
+
+EU 차원에서는 DSA를 통과시켜 거대규모 플랫폼 사업자들의 운영을 규제하고 있으며, 디지털 광고 주요 조항으로는 아동 및 청소년에 대한 영구적으로 전면적인 맞춤형 광고 금지가 있다.
+
+<Digital Services Act, Article 26, 법률안 일부 발췌>
+
+| 내용 |
+|---|
+| 1. Providers of online platforms that present advertisements on their online interfaces shall ensure that, for each specific advertisement presented to each individual recipient, the recipients of the service are able to identify, in a clear, concise and unambiguous manner and in real time, the following: <br> (a) that the information is an advertisement, including through prominent markings, which might follow standards pursuant to Article 44; <br> (b) the natural or legal person on whose behalf the advertisement is presented; <br> (c) the natural or legal person who paid for the advertisement if that person is different from the natural or legal person referred to in point (b); <br> (d) meaningful information directly and easily accessible from the advertisement about the main parameters used to determine the recipient to whom the advertisement is presented and, where applicable, about how to change those parameters. |
+| 2. Providers of online platforms shall provide recipients of the service with a functionality to declare whether the content they provide is or contains commercial communications. <br> When the recipient of the service submits a declaration pursuant to this paragraph, the provider of online platforms shall ensure that other recipients of the service can identify in a clear and unambiguous manner and in real time, including through prominent markings, which might follow standards pursuant to Article 44, that the content provided by the recipient of the service is or contains commercial communications, as described in that declaration. |
+| 3. Providers of online platforms shall not present advertisements to recipients of the service based on profiling as defined in Article 4, point (4), of Regulation (EU) 2016/679 using special categories of personal data referred to in Article 9(1) of Regulation (EU) 2016/679. |
+
+| 내용 |
+|---|
+| [번역] <br> 1. 온라인상에 광고를 표시하는 온라인 플랫폼 사업자는 각 수용자에게 표시되는 각각의 광고에 대해 수용자가 다음 규정 사항을 명료하고 명확하게, 혼동의 여지 없이 실시간으로 확인할 수 있도록 해야 한다. <br> (a) 해당하는 정보가 광고라는 사실. 이는 44조의 표준을 따른 명백한 표시를 포함할 수 있다. <br> (b) 광고를 발주한 자연인 혹은 법인. <br> (c) 광고의 발주인과 다른 경우, 광고비를 지불한 자연인 혹은 법인. <br> (d) 광고 대상자를 특정하기 위해 사용된 정보에 대한 직접적이고 용이하게 접근할 수 있는 유용한 정보와, 가능한 경우 그러한 정보를 바꿀 수 있는 방법. |
+| 2. 온라인 플랫폼 사업자는 수용자에게 사업자가 제공하는 콘텐츠가 상업적 내용을 포함하거나, 상업적 내용에 해당하는지를 표시할 수 있는 기능을 제공하여야 한다. <br> 서비스 사용자가 본 조항에 따라 정보 공표를 요청할 시, 온라인 플랫폼 사업자는 다른 서비스 사용자 역시 44조의 표준을 따른 명백한 표시 등과 같은 형태로 명백하고 명료하며 실시간으로 사업자가 제공하는 콘텐츠가 상업적 내용을 포함하거나, 상업적 내용에 해당하는지를 확인할 수 있도록 하여야 한다. |
+| 3. 온라인 플랫폼 사업자는 서비스 사용자에게 EU 2016/679 규제의 9(1)조에 따른 개인정보를 사용하여 EU 2016/679 규제의 제4조4항에 정의된 프로파일링에 따른 맞춤형 광고를 제공해서는 안된다. |
+
+<Digital Services Act, Article 28, 법률안 일부 발췌>
+
+| 내용 |
+|---|
+| 1. Providers of online platforms accessible to minors shall put in place appropriate and proportionate measures to ensure a high level of privacy, safety, and security of minors, on their service. |
+| 2. Providers of online platform shall not present advertisements on their interface based on profiling as defined in Article 4, point (4), of Regulation (EU) 2016/679 using personal data of the recipient of the service when they are aware with reasonable certainty that the recipient of the service is a minor. |
+| 3. Compliance with the obligations set out in this Article shall not oblige providers of online platforms to process additional personal data in order to assess whether the recipient of the service is a minor. |
+| 4. The Commission, after consulting the Board, may issue guidelines to assist providers of online platforms in the application of paragraph 1. |
+| [번역] <br> 1. 미성년자가 접근할 수 있는 온라인 플랫폼을 운영하는 사업자는 미성년자와 그들의 서비스에 높은 수준의 사생활 보호와 안전, 보안을 담보할 수 있는 적절한, 적합한 수준의 방안을 강구하여 포함하여야 한다. |
+| 2. 온라인 플랫폼 사업자는 합리적 추측 수준에서 서비스 대상자가 미성년자일 수 있음을 알았을 경우, EU 2016/679 규제의 제4조4항에 정의된 프로파일링에 따른 맞춤형 광고를 제공해서는 안된다. |
+| 3. 본 조항에 따른 의무 사항 준수를 위해 온라인 플랫폼 사업자가 서비스 대상자가 미성년자임을 확인하기 위한 추가 개인 정보를 처리하는 것을 허용되지 않는다. |
+| 4. 위원회는 이사회와의 토의를 거친 뒤 온라인 플랫폼 사업자의 문단 1 적용을 돕기 위한 가이드라인을 발행할 수 있다. |
+
+나. EU 내 디지털 광고 일반 자율규제 동향
+
+EU는 EASA를 통해 유튜브, 인스타그램과 같은 인플루언서 광고의 형태를 규제하고 있다. 최근 EASA는 BPR on Influencer Marketing 개정안을 공개하며 광고 관련 사실 공지의 시점, 사용 가능한 어휘, 광고 사실 표시와 그 위치 등을 규율하고 있다.
+
+<BPR on Influencer Marketing>
+
+**2023**
+
+**EASA BEST PRACTICE RECOMMENDATION ON INFLUENCER MARKETING GUIDANCE**
+
+**Executive Summary**
+
+EASA's Best Practice Recommendation on Influencer Marketing (BPR IM) clarifies the remit of advertising self-regulatory organisations (SROs) when considering online influencer marketing content and provides recommendations for SROs to develop their own national guidance.
+
+For the purpose of this BPR, the concept of influencer includes any human-controlled online profile that is active on any social media platform and shape attitudes by publishing online content. Only content for which the influencer has received some form of compensation, whether financial or through other arrangements, is considered in remit of SROs, given its marketing intent. Brand control may also be a factor that helps in identifying whether a piece of content is marketing.
+
+Compensation is defined as recognition from the brand of the service provided by the influencer to advertise their products or services. It can range from formal contractual agreements defining monetary payments to a mere provision of free goods or other reciprocal commitments for the benefit of the influencer.
+
+Brand control may range from advertiser suggestions to an actual clearance of the content before publication by the influencer.
+
+**[Diagram Text Elements - Interpreted from OCR]**
+
+*   **Influencer Marketing**
+    *   Brand compensation
+    *   Brand control
+*   **User Generated Content**
+    *   No indications content is purely editorial content
+*   **Promotion of a product expressing gratitude towards and endorsement of the brand**
+*   **Presence of affiliation codes or discounts, etc.**
+*   **Displaying received goods or mentioning the possibility of receiving gifts from a particular brand**
+*   **Proof of previous cooperation with the brand and a public announcement that collaboration has ended or will occur**
+
+easa European Advertising Standards Alliance
+
+In cases of sponsored (referring to articles 10 and 11 of the Audio Visual Media Services Directive), the formal declaration of brand control may not be used to qualify if content would not be allowed.
+
+---
+
+1) LOI n° 2023-451 du 9 juin 2023 visant a encadrer l'influence commerciale et a lutter contre les derives des influenceurs sur les reseaux sociaux,

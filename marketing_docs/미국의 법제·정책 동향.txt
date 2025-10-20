@@ -1,0 +1,41 @@
+미국은 디지털 광고에 대해 강력한 규제를 진행하고 있지는 않다. 그러나 미국 역시 최근 청소년을 대상으로 한 맞춤형 광고에 대한 규제 강화의 목소리가 제시되면서 맞춤형 광고를 규제하는 두 개의 온라인 아동 보호 법률안이 118대 국회에 발의된 상태이다. 법률안에 따라 규제의 수준은 EU의 DSA, 국내의 「디지털 서비스 이용자 보호에 관한 법률안」의 완전 금지 수준부터, 명료한 광고 공시까지 다양하나 맞춤형 광고 규제를 강화하는 방향으로 법률안이 제안되고 있음을 주시할 필요가 있다.
+
+지난 5월 3일 발의된 S.1418-Children and Teens’Online Privacy Protection Act는 다음 조문에서 아동·청소년을 명시적인 대상으로 하는 맞춤형 광고를 금지하고 있다.
+
+<Children and Teens' Online Privacy Protection Act, 법률안 일부 발췌>
+
+---
+
+**SEC. 6. TARGETED MARKETING TO CHILDREN AND TEENS.**
+
+**(a) Prohibited Acts With Respect To Children And Teens.** It shall be unlawful for an operator of a website, online service, online application, mobile application, or connected device to collect, use, disclose to third parties, or compile personal information of a user for purposes of targeted marketing (or to allow another person to collect, use, disclose, or compile such information for such purpose) if—
+(1) such use, disclosure, or compiling of personal information involves or is reasonably likely to involve collection of personal information from a child or teen; or
+(2) the website, online service, online application, mobile application, or connected device is directed to children or teens.
+
+**(b) Effective Date.** This section shall take effect on the date that is 180 days after the date of enactment of this Act.
+
+**[번역]**
+**SEC. 6. 아동 및 청소년에 대한 맞춤형 광고**
+
+**(a) 아동 및 청소년에 대한 금지 행위** - 웹사이트, 온라인 서비스, 온라인 어플리케이션 혹은 커넥티드 기기 운영자는 다음 조건에 해당할 경우 맞춤형 광고를 위한 데이터를 수집, 사용, 혹은 서드파티에 공개하거나 취합하여서는 안된다.
+(1) 해당하는 사용, 공개 혹은 취합에 사용된 개인 정보가 아동 혹은 청소년의 개인 정보이거나 아동 혹은 청소년 개인정보의 모음과 연결되어 있을 가능성이 합리적 수준에서 의심될 경우.
+(2) 웹사이트, 온라인 서비스, 온라인 어플리케이션, 모바일 어플리케이션 혹은 커넥티드 디바이스가 아동 혹은 청소년을 대상으로 하는 경우.
+
+이에 하루 앞서 발의된 5월 2일 발의된 S.1409 - Kids Online Safety Act 역시, 규제 강도에 차이는 있으나 청소년을 대상으로 하는 맞춤형 광고에 대한 제한 규정을 담고 있다.
+
+<Children and Teens' Online Privacy Protection Act, 법률안 일부 발췌>
+
+---
+
+**(c) Advertising And Marketing Information And Labels.—**
+
+**(1) INFORMATION AND LABELS.** A covered platform that facilitates advertising aimed at users that the platform knows or reasonably should know are minors shall provide clear, conspicuous, and easy-to-understand information and labels to minors on advertisements regarding—
+(A) the name of the product, service, or brand and the subject matter of an advertisement;
+(B) why the minor is being targeted for a particular advertisement if the covered platform engages in targeted advertising, including material information about how the minor’s personal data was used to target the advertisement; and
+(C) whether particular media displayed to the minor is an advertisement or marketing material, including disclosure of endorsements of products, services, or brands made for commercial consideration by other users of the platform.
+
+**[번역]**
+**(1) 정보 및 표시** - 해당 법이 다루는 플랫폼 사업자로서 대상이 미성년자임을 알거나, 합리적 수준에서 알아야 한다고 판단될 경우 광고를 제공하는 사업자는 명료하고, 명백하며 쉽게 이해할 수 있게 다음에 규정된 정보 및 표시를 광고에 부착하여야 한다.
+(A) 제품, 서비스의 명칭, 혹은 브랜드와 광고의 주제.
+(B) 플랫폼이 맞춤형 광고를 사용하는 경우 미성년자가 해당하는 특정 광고에 노출되는 사유. 이는 미성년자의 개인정보가 어떻게 맞춤형 광고에 사용되었는지를 포함해야 한다. 또한,
+(C) 재생되고 있는 미디어가 광고, 혹은 마케팅을 위한 것인지의 여부. 이는 상품, 서비스, 혹은 브랜드에 대한 홍보의 사실 적시를 포함하여야 한다.
